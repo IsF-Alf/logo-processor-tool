@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Image files (optional, comment out if you want to include example images)
+# *.png
+# *.jpg
+# *.jpeg
+# *.pdf
+
+# Windows specific
+Thumbs.db
+desktop.ini
